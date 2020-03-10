@@ -26,7 +26,7 @@ module.exports = {
           type: Sequelize.STRING,
           allowNull: false,
         },
-        neighboorhood: {
+        neighborhood: {
           type: Sequelize.STRING,
           allowNull: false,
         },
